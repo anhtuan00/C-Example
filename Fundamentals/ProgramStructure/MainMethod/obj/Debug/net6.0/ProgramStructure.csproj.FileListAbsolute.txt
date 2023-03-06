@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\C#Example\Fundamentals\ProgramStructure\bin\Debug\net6.0\ProgramStructure.exe
+C:\Users\Admin\Desktop\C#Example\Fundamentals\ProgramStructure\bin\Debug\net6.0\ProgramStructure.deps.json
+C:\Users\Admin\Desktop\C#Example\Fundamentals\ProgramStructure\bin\Debug\net6.0\ProgramStructure.runtimeconfig.json
+C:\Users\Admin\Desktop\C#Example\Fundamentals\ProgramStructure\bin\Debug\net6.0\ProgramStructure.dll
+C:\Users\Admin\Desktop\C#Example\Fundamentals\ProgramStructure\bin\Debug\net6.0\ProgramStructure.pdb
+C:\Users\Admin\Desktop\C#Example\Fundamentals\ProgramStructure\obj\Debug\net6.0\ProgramStructure.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\C#Example\Fundamentals\ProgramStructure\obj\Debug\net6.0\ProgramStructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\C#Example\Fundamentals\ProgramStructure\obj\Debug\net6.0\ProgramStructure.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C#Example\Fundamentals\ProgramStructure\obj\Debug\net6.0\ProgramStructure.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C#Example\Fundamentals\ProgramStructure\obj\Debug\net6.0\ProgramStructure.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C#Example\Fundamentals\ProgramStructure\obj\Debug\net6.0\ProgramStructure.dll
+C:\Users\Admin\Desktop\C#Example\Fundamentals\ProgramStructure\obj\Debug\net6.0\refint\ProgramStructure.dll
+C:\Users\Admin\Desktop\C#Example\Fundamentals\ProgramStructure\obj\Debug\net6.0\ProgramStructure.pdb
+C:\Users\Admin\Desktop\C#Example\Fundamentals\ProgramStructure\obj\Debug\net6.0\ProgramStructure.genruntimeconfig.cache
+C:\Users\Admin\Desktop\C#Example\Fundamentals\ProgramStructure\obj\Debug\net6.0\ref\ProgramStructure.dll

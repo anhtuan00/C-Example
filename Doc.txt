@@ -1,0 +1,15 @@
+https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/
+
+https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/program-structure/
+https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/compiler-options/advanced#mainentrypoint-or-startupobject
+
+// Restriction
+https://answers.microsoft.com/en-us/windows/forum/all/fullyqualifiederrorid-unauthorizedaccess/a73a564a-9870-42c7-bd5e-7072eb1a3136
+
+
+//Current
+https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/tutorials/oop
+
+// Future
+https://learn.microsoft.com/en-us/dotnet/csharp/
+https://learn.microsoft.com/en-us/dotnet/core/tutorials/with-visual-studio-code?pivots=dotnet-6-0
